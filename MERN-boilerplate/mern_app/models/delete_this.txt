@@ -1,0 +1,1 @@
+The models folder contains the schema files.
