@@ -25,6 +25,6 @@
 ```cd mern_app``` <br />
 ```npm install``` <br />
 ```cd client``` <br />
-```npm install```
-```cd ..```
+```npm install``` <br />
+```cd ..``` <br />
 ```npm run dev``` (Starts the dev-environment)
