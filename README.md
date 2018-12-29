@@ -18,3 +18,13 @@
 <p> 
   <img src="https://preview.ibb.co/iZQCC0/MERN-stack.png" alt="MERN-stack" border="0" />
 </p>
+
+## Get started
+```git clone``` <br />
+```cd MERN-boilerplate``` <br />
+```cd mern_app``` <br />
+```npm install``` <br />
+```cd client``` <br />
+```npm install```
+```cd ..```
+```npm run dev``` (Starts the dev-environment)
