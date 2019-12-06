@@ -13,7 +13,7 @@
 - E – [Express](https://expressjs.com/)
 - R – [React](https://reactjs.org/) (Using *create-react-app* for the client)
 - N – [Node](https://nodejs.org/en/)
-- &plus; – [Redux](https://redux.js.org/) **[ issue: #1](https://github.com/JesperBry/MERN-boilerplate/issues/1)**
+- &plus; – [Redux](https://redux.js.org/)
 
 <p> 
   <img src="https://preview.ibb.co/iZQCC0/MERN-stack.png" alt="MERN-stack" border="0" />
