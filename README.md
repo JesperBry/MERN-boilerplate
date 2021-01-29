@@ -3,6 +3,8 @@
 </p>
 
 # MERN – stack boilerplate with redux
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/) 
+</br> This is no longer maintained, please consider using [boilertemp-CLI](https://github.com/JesperBry/boilertemp-CLI) instead.
 
 *The MERN stack consists of MongoDB, Express, React / Redux, and Node.js. Given the popularity of React on the frontend and of Node.js on the backend, the MERN stack is one of the most popular stack of technologies for building a modern single-page app.*
 
